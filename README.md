@@ -5,7 +5,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biren-gohel-1111&label=Profile%20views&color=0e75b6&style=flat" alt="biren-gohel-1111" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=biren-gohel-1111" alt="biren-gohel-1111" /></a> </p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <img align="right" alt="coding" width="400" src="https://www.icegif.com/wp-content/uploads/2022/01/icegif-180.gif">
 
