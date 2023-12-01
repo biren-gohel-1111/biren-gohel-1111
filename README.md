@@ -10,7 +10,7 @@
 
 <img align="right" alt="coding" width="400" src="https://www.icegif.com/wp-content/uploads/2022/01/icegif-180.gif">
 
-- 🔭 I’m currently working on **Web Devlopment**
+- 🔭 I’m currently working on **Web Devlopment(ReactJs)**
 
 - 🌱 I’m currently learning **Core Web Devlopment**
 
@@ -18,11 +18,11 @@
 
 - 🤝 I’m looking for help with **Teachers/Sir**
 
-- 💬 Ask me about **C, C++, Web Devlopment, MySql**
+- 💬 Ask me about **Full Stack Web Devlopment,**
 
 - 📫 How to reach me **birengohel01111@gmail.com**
 
-- ⚡ Fun fact **I am Funny.**
+- ⚡ Fun fact **I am Funny Actor.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -35,7 +35,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/biren-gohel-1111"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="biren-gohel-1111" /></a></p><br><br>
 
-<p><img align="left" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=biren-gohel-1111&show_icons=true&locale=en&layout=compact" alt="biren-gohel-1111" /></p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=biren-gohel-1111&show_icons=true&locale=en" alt="biren-gohel-1111" /></p>
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=biren-gohel-1111&" alt="biren-gohel-1111" /></p>
 
