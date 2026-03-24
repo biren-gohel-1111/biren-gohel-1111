@@ -1,42 +1,103 @@
-![githubimg](https://github.com/biren-gohel-1111/biren-gohel-1111/assets/141136959/44b14e5c-429f-41c1-82de-0128aea0f0a7)
 
-<h3 align="center">A passionate Web developer from India</h3>
+<h1 align="center">A Passionate Frontend Developer From India</h3>
 
+<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=biren-gohel-1111&label=Profile%20views&color=0e75b6&style=flat" alt="biren-gohel-1111" /> </p>
+- 🔭 I’m currently working on Modern **Custom Web Frontend & Backend Devlopment (ReactJs/ Nextjs)**
+  
+- 💬 Ask me about **Web Devlopment and More..**
 
+- 📫 How to reach me **birengohel0706@gmail.com**
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+- I focus on **clean UI, responsiveness & performance & Custom Logic Functionality.**
 
-<img align="right" alt="coding" width="400" src="https://www.icegif.com/wp-content/uploads/2022/01/icegif-180.gif">
+ **Our Services**
 
-- 🔭 I’m currently working on **Web Devlopment(ReactJs)**
+-  Design and Development React.js / Next.js Applications
+-  Responsive Website Development
+-  Landing Page Design & Development
+-  Website Redesign & Optimization
+-  Bug Fixing & Performance Improvement
+-  Secure Payment Integration
+-  Testing & Quality Assurance
 
-- 🌱 I’m currently learning **Core Web Devlopment**
-
-- 👯 I’m looking to collaborate on **Web Devlopment**
-
-- 🤝 I’m looking for help with **Teachers/Sir**
-
-- 💬 Ask me about **Full Stack Web Devlopment,**
-
-- 📫 How to reach me **birengohel01111@gmail.com**
-
-- ⚡ Fun fact **I am Funny Actor.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/biren_1111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="biren_1111" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/biren-gohel-14b3012b6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="biren_1111" height="30" width="40" /></a>
+
+<a href="https://www.linkedin.com/in/biren-gohel-14b3012b6" target="_blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
+</a>
+
+<a href="https://github.com/modernwebpro" target="_blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="github" height="30" width="40" />
+</a>
+
+<a href="https://instagram.com/biren_1111" target="_blank">
+<img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/instagram.svg" alt="instagram" height="30" width="40" />
+</a>
+
+<a href="https://wa.me/9104614653" target="_blank">
+<img align="center" src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="whatsapp" height="30" width="40"/>
+</a>
+
+<a href="mailto:birengohel01111@gmail.com">
+<img align="center" src="https://img.icons8.com/fluency/48/gmail-new.png" alt="email" height="30" width="40"/>
+</a>
+
+<a href="tel:+919999999999">
+<img align="center" src="https://img.icons8.com/color/48/phone.png" alt="phone" height="30" width="40"/>
+</a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="left"> 
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+</a> 
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/biren-gohel-1111"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="biren-gohel-1111" /></a></p><br><br>
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
+</a> 
 
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwindcss" width="40" height="40"/> 
+</a> 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=biren-gohel-1111&show_icons=true&locale=en" alt="biren-gohel-1111" /></p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=biren-gohel-1111&" alt="biren-gohel-1111" /></p>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
+</a> 
 
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
+</a> 
+
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
+</a> 
+
+<a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/> 
+</a> 
+
+<a href="https://redux.js.org/" target="_blank" rel="noreferrer"> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
+</a> 
+
+<a href="https://stripe.com/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/stripe/stripe-icon.svg" alt="stripe" width="40" height="40"/> 
+</a> 
+
+<a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/chakra-ui/chakra-ui-icon.svg" alt="chakraui" width="40" height="40"/> 
+</a> 
+
+<a href="https://www.framer.com/motion/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> 
+</a> 
+
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
+</a> 
+</p>
